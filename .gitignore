@@ -1,0 +1,18 @@
+# Alarm & event export data — never commit real (or test) plant data.
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Local run artefacts
+*.html
+*.json
+!examples/demo_report.html
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+Thumbs.db
