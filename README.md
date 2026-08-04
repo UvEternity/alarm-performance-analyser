@@ -34,6 +34,8 @@ python scripts/analyse_alarms.py your_export.csv \
 
 Requires Python 3.8+. Nothing else.
 
+> **Windows:** if `python` prints "Python was not found; run without arguments to install from the Microsoft Store", no real Python is installed yet — that message comes from a Store alias stub, not an error in this tool. Install Python from [python.org](https://www.python.org/downloads/) or `winget install Python.Python.3.12`, then reopen your terminal.
+
 ### Input
 
 Any CSV or TSV alarm & event export. Column names are auto-detected across common vendor formats (Rockwell FactoryTalk, Siemens PCS 7, ABB 800xA, Yokogawa, Honeywell, AVEVA/Wonderware, generic historian).
