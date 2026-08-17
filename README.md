@@ -2,7 +2,7 @@
 
 Benchmark an industrial alarm & event export against the published **ANSI/ISA-18.2** and **EEMUA 191** performance targets and get back a single self-contained HTML report.
 
-Free. Standard library only. No install, no account, no upload - it runs on your machine, including locked-down plant networks where `pip install` isn't an option. This is a personal tool built on public standards, not affiliated with any employer.
+Free. Standard library only. No install, no account, no upload - it runs on your machine, including locked-down plant networks where `pip install` isn't an option. 
 
 ---
 
@@ -75,6 +75,13 @@ Deciding whether a specific alarm should be removed, re-ranged, re-prioritised, 
 An alarm that looks like pure noise in an export can be the last line of protection on a scenario the export doesn't show you. **Treat the output as a prioritised work queue, not a conclusion.**
 
 ---
+## Disclaimer
+
+This is a personal project built in my own time on the published ANSI/ISA-18.2 and EEMUA 191 standards. It is not affiliated with, endorsed by, or connected to any employer, past or present.
+
+The tool provides measurement only. It does not constitute engineering advice, a rationalisation study or a compliance assessment. Any decisions taken on the basis of its output remain the sole responsibility of the competent person(s) using the results, in accordance with the applicable standards and their organisation’s procedures.
+
+The software is provided “as is”, without warranty of any kind.
 
 ## A note on your data
 
