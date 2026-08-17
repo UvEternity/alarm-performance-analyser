@@ -10,7 +10,7 @@ Free. Standard library only. No install, no account, no upload - it runs on your
 
 | | |
 |---|---|
-| **Alarm rate** | Per day, per hour and per 10 minutes, **per operating position** — against the 150/300 acceptable/maximum figures |
+| **Alarm rate** | Per day, per hour and per 10 minutes, **per operating position** - against the 150/300 acceptable/maximum figures |
 | **Flood analysis** | Percentage of 10-minute periods exceeding 10 alarms, peak rate, and the largest contiguous flood episodes with duration and peak |
 | **Bad actors** | Top 20 tags by activation count, with per-day rate and share of total load |
 | **Chattering** | Tags activating 3+ times within any rolling 60 seconds |
