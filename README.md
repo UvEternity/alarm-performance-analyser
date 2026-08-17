@@ -1,8 +1,8 @@
 # Alarm Performance Analyser
 
-Benchmark an industrial alarm & event export against the published **ANSI/ISA-18.2** and **EEMUA 191** performance targets, and get back a single self-contained HTML report.
+Benchmark an industrial alarm & event export against the published **ANSI/ISA-18.2** and **EEMUA 191** performance targets and get back a single self-contained HTML report.
 
-Free. Standard library only. No install, no account, no upload - it runs on your machine, including locked-down plant networks where `pip install` isn't an option.
+Free. Standard library only. No install, no account, no upload - it runs on your machine, including locked-down plant networks where `pip install` isn't an option. This is a personal tool built on public standards, not affiliated with any employer.
 
 ---
 
@@ -18,7 +18,7 @@ Free. Standard library only. No install, no account, no upload - it runs on your
 | **Priority distribution** | Actual split against the ISA-18.2 guide of 80% low / 15% medium / 5% high |
 | **Load profile** | Daily trend and hour-of-day distribution |
 
-Every threshold comes from a published standard. [`references/benchmarks.md`](references/benchmarks.md) gives the figures, the sources, exactly how each metric is computed, and the known limitations. If a number looks wrong, you should be able to check it against your own copy of the standard — that's deliberate.
+Every threshold comes from a published standard. [`references/benchmarks.md`](references/benchmarks.md) gives the figures, the sources, exactly how each metric is computed, and the known limitations. If a number looks wrong, you should be able to check it against your own copy of the standard - that's deliberate.
 
 ---
 
