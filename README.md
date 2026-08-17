@@ -2,7 +2,7 @@
 
 Benchmark an industrial alarm & event export against the published **ANSI/ISA-18.2** and **EEMUA 191** performance targets, and get back a single self-contained HTML report.
 
-Free. Standard library only. No install, no account, no upload — it runs on your machine, including locked-down plant networks where `pip install` isn't an option.
+Free. Standard library only. No install, no account, no upload - it runs on your machine, including locked-down plant networks where `pip install` isn't an option.
 
 ---
 
@@ -86,6 +86,6 @@ If you plan to share a report, note that tag names alone can identify a site and
 
 ## Licence
 
-MIT. Use it, fork it, put it in your own toolchain, bill for work you do with it.
+MIT. Use it, fork it
 
 If it's useful, telling someone is appreciated. If it's wrong, telling *me* is more useful — corrections to the metric definitions especially.
