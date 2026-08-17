@@ -95,4 +95,4 @@ If you plan to share a report, note that tag names alone can identify a site and
 
 MIT. Use it, fork it
 
-If it's useful, telling someone is appreciated. If it's wrong, telling *me* is more useful — corrections to the metric definitions especially.
+If it's useful, telling someone is appreciated. If it's wrong, telling *me* is more useful - corrections to the metric definitions especially.
