@@ -27,7 +27,7 @@ Every threshold comes from a published standard. [`references/benchmarks.md`](re
 ```bash
 python scripts/analyse_alarms.py your_export.csv \
     -o assessment.html \
-    --site "North Concentrator" \
+    --site "Site Name Here" \
     --console-count 2 \
     --json metrics.json
 ```
